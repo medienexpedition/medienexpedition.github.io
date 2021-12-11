@@ -7,5 +7,7 @@ layout: default
 Diplom-Medieninformatiker (FH)
 
 Alexander Sonntag
+
 Nürnberg, Germany
-[https://medienexpedition.de]
+
+[https://medienexpedition.de](https://medienexpedition.de)
