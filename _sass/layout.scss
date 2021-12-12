@@ -22,6 +22,7 @@ body {
     margin: 0 auto;
     display: grid;
     grid-template-areas:
+        "header"
         "nav"
         "main"
 }
@@ -30,6 +31,7 @@ body {
     #frame {
         width: 90%;
         grid-template-areas:
+            "header"
             "nav"
             "main";
     }
