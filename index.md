@@ -10,4 +10,4 @@ Alexander Sonntag
 
 Nürnberg, Germany
 
-[https://medienexpedition.de](https://medienexpedition.de)
+[https://medienexpedition.de](https://medienexpedition.de){:target="_blank"}
