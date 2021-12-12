@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Medienexpedition Alexander Sonntag
+## Alexander Sonntag
 
 Web designer from Nürnberg, Germany
 
