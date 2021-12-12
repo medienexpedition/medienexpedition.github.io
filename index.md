@@ -2,12 +2,10 @@
 layout: default
 ---
 
-## Medienexpedition 
-
-Diplom-Medieninformatiker (FH)
+## Medienexpedition
 
 Alexander Sonntag
 
-Nürnberg, Germany
+Web designer from Nürnberg, Germany
 
 [https://medienexpedition.de](https://medienexpedition.de){:target="_blank"}
