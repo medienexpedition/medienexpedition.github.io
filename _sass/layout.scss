@@ -47,8 +47,8 @@ p {
     margin-top: 1.25em;
 }
 
-.nav {
-    grid-area: nav;
+.header {
+    grid-area: header;
     display: inline-block;
 
     h1 {
@@ -58,6 +58,15 @@ p {
         a {
             text-decoration: none;
         }
+    }
+}
+
+.nav {
+    grid-area: nav;
+    display: inline-block;
+
+    a {
+        text-decoration: none;
     }
 }
 
